@@ -1,5 +1,5 @@
 <h1 align="center">
-Example Company Newsletter HTML Email Template
+Example E-commerce HTML Email Template
 </h1> 
 <p align="center">
   <a href="https://saythanks.io/to/melodyblachowicz%40gmail.com">
@@ -84,4 +84,4 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ### You may also like..
 
-+ [HTML Email Template: example e-commerce campaign](https://github.com/MRBlach/email-template-restaurant-promo "example restaurant promotion") - Promote your meal deals.
++ [HTML Email Template: example restaurant promotion](https://github.com/MRBlach/email-template-restaurant-promo "example restaurant promotion") - Promote your meal deals.
