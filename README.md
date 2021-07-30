@@ -24,7 +24,7 @@ Responsive email template for e-commerce. Promote your online store. Social medi
 
 <img src="https://i.ibb.co/mhJ106M/viewport.png" alt="viewport" border="0">
 
-Here is a working live demonstration: https://mrblach.github.io/email-template-mail-order-service/
+Here is a working live [demonstration](https://mrblach.github.io/email-template-mail-order-service/)
 
 ### Steps To Execute This App
 - Download the entire code
